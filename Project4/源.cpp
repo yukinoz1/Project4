@@ -956,4 +956,4 @@ void openmusic()
 	mciSendString("open voice\\bullet2.mp3", NULL, 0, NULL);
 	mciSendString("open voice\\1.mp3", NULL, 0, NULL);
 	mciSendString("open voice\\enemy_death.mp3", NULL, 0, NULL);
-}
+} 
